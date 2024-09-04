@@ -74,7 +74,7 @@ int main()
                 checkCastleWallList(userInput, castleWallList);
             }
            // cout << "You did not select one of the choices.  Please try again." << endl;
-            /*Not sure about continue*/
+ 
         /*while loop conditions satisfied. Can now push back input. */
 
     }
